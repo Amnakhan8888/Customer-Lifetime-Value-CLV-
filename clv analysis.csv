@@ -1,0 +1,99 @@
+CUSTOMER ID,customerName,avg_purchase_value,total_orders,avg_purchase_frequency,customer_lifespan_years,CLV,clv_segment
+103,Atelier graphique,22314,3,3,2,61074,Low Value
+112,Signal Gift Stores,80181,3,3,2,220640,Medium Value
+114,"Australian Collectors, Co.",180585,5,5,2,860871,High Value
+119,La Rochelle Gifts,116950,4,4,1,239923,Medium Value
+121,Baane Mini Imports,104225,4,4,2,442713,High Value
+124,Mini Gifts Distributors Ltd.,584188,17,17,2,12978582,High Value
+128,"Blauer See Auto, Co.",75938,4,4,2,332545,High Value
+129,Mini Wheels Co.,66711,3,3,2,198706,Medium Value
+131,Land of Toys Inc.,107640,4,4,2,445895,High Value
+141,Euro+ Shopping Channel,715739,26,26,2,26032505,High Value
+144,"Volvo Model Replicas, Co",43681,4,4,2,174052,Medium Value
+145,Danish Wholesale Imports,107447,5,5,2,701199,High Value
+146,"Saveley & Henriot, Co.",130305,3,3,0,62975,Low Value
+148,"Dragon Souveniers, Ltd.",156251,5,5,2,880999,High Value
+151,Muscle Machine Inc,177914,4,4,2,639905,High Value
+157,Diecast Classics Inc.,98509,4,4,1,203388,Medium Value
+161,Technics Stores Inc.,104545,4,4,1,365020,High Value
+166,Handji Gifts& Co,105421,4,4,1,307770,High Value
+167,Herkku Gifts,97562,3,3,1,142414,Medium Value
+171,Daedalus Designs Imports,61782,2,2,0,20718,Low Value
+172,"La Corne D'abondance, Co.",86554,3,3,2,255677,Medium Value
+173,Cambridge Collectables Co.,32199,2,2,0,6246,Low Value
+175,Gift Depot Inc.,95425,3,3,2,257411,Medium Value
+177,Osaka Souveniers Co.,62361,2,2,0,18862,Low Value
+181,Vitachrome Inc.,72498,3,3,2,237753,Medium Value
+186,"Toys of Finland, Co.",95546,3,3,1,231825,Medium Value
+187,"AV Stores, Co.",148410,3,3,2,446450,High Value
+189,"Clover Collections, Co.",49898,2,2,1,35599,Low Value
+198,Auto-Moto Classics Inc.,21554,3,3,1,56974,Low Value
+201,"UK Collectables, Ltd.",61167,3,3,2,165906,Medium Value
+202,Canadian Gift Exchange Network,70122,2,2,1,74233,Low Value
+204,Online Mini Collectables,55577,2,2,0,7126,Low Value
+205,Toys4GrownUps.com,93803,3,3,1,234071,Medium Value
+209,Mini Caravy,75859,3,3,1,136921,Medium Value
+211,"King Kong Collectables, Co.",45481,2,2,0,2392,Low Value
+216,Enaco Distributors,68520,3,3,2,197001,Medium Value
+219,Boards & Toys Co.,7919,2,2,1,12887,Low Value
+227,Heintze Collectables,89910,2,2,1,109665,Medium Value
+233,Québec Home Shopping Network,68978,3,3,1,184709,Medium Value
+239,Collectable Mini Designs Co.,80375,2,2,0,1850,Low Value
+240,giftsbymail.co.uk,71784,2,2,1,53336,Low Value
+242,Alpha Cognac,60483,3,3,2,188808,Medium Value
+249,Amica Models & Co.,82223,2,2,0,6217,Low Value
+250,Lyon Souveniers,67659,3,3,2,208539,Medium Value
+256,Auto Associés & Cie.,58876,2,2,1,48779,Low Value
+259,"Toms Spezialitäten, Ltd",89223,2,2,1,97094,Low Value
+260,"Royal Canadian Collectables, Ltd.",66812,2,2,0,30752,Low Value
+276,"Anna's Decorations, Ltd",137034,4,4,1,491071,High Value
+278,Rovelli Gifts,127530,3,3,2,398731,High Value
+282,Souveniers And Things Co.,91656,4,4,2,411622,High Value
+286,Marta's Replicas Co.,90545,2,2,0,13991,Low Value
+298,"Vida Sport, Ltd",108778,2,2,1,67949,Low Value
+299,"Norway Gifts By Mail, Co.",69059,2,2,1,72881,Low Value
+311,"Oulu Toy Supplies, Inc.",95706,3,3,1,235044,Medium Value
+314,Petit Auto,62254,3,3,1,143371,Medium Value
+319,Mini Classics,78432,2,2,1,83804,Low Value
+320,Mini Creations Ltd.,101873,3,3,1,259231,Medium Value
+321,Corporate Gift Ideas Co.,132341,4,4,1,436833,High Value
+323,"Down Under Souveniers, Inc",154622,5,5,2,829876,High Value
+324,"Stylish Desk Decors, Co.",80557,3,3,1,214524,Medium Value
+328,Tekni Collectables Inc.,38282,3,3,1,69851,Low Value
+333,"Australian Gift Network, Co",55190,3,3,1,134997,Medium Value
+334,Suominen Souveniers,103897,3,3,1,268481,Medium Value
+339,"Classic Gift Ideas, Inc",57939,2,2,1,64003,Low Value
+344,CAF Imports,46751,2,2,0,20442,Low Value
+347,"Men 'R' US Retailers, Ltd.",41506,2,2,0,12281,Low Value
+350,Marseille Mini Autos,71548,3,3,2,214878,Medium Value
+353,Reims Collectables,126983,5,5,2,723282,High Value
+357,GiftsForHim.com,56662,3,3,1,143627,Medium Value
+362,Gifts4AllAges.com,33533,3,3,1,51265,Low Value
+363,Online Diecast Creations Co.,116449,3,3,2,383613,High Value
+379,Collectables For Less Inc.,73534,3,3,1,182404,Medium Value
+381,Royale Belge,29217,4,4,2,122952,Medium Value
+382,Salzburg Collectables,85060,4,4,2,419474,High Value
+385,Cruz & Sons Co.,87468,3,3,2,269163,Medium Value
+386,L'ordine Souveniers,90143,3,3,2,244943,Medium Value
+398,"Tokyo Collectables, Ltd",105549,4,4,1,215840,Medium Value
+406,Auto Canal+ Petit,86437,3,3,1,190967,Medium Value
+412,"Extreme Desk Decorations, Ltd",66705,3,3,1,135530,Medium Value
+415,"Bavarian Collectables Imports, Co.",31310,1,1,0,0,Low Value
+424,Classic Legends Inc.,69214,3,3,2,203775,Medium Value
+447,Gift Ideas Corp.,49968,3,3,1,132326,Medium Value
+448,Scandinavian Gift Ideas,76776,3,3,1,188176,Medium Value
+450,The Sharp Gifts Warehouse,59551,4,4,1,135483,Medium Value
+452,Mini Auto Werke,51060,3,3,1,127412,Medium Value
+455,Super Scale Inc.,70379,2,2,0,37021,Low Value
+456,Microscale Inc.,29230,2,2,1,18932,Low Value
+458,"Corrida Auto Replicas, Ltd",112440,3,3,1,290003,Medium Value
+462,FunGiftIdeas.com,88627,3,3,1,218096,Medium Value
+471,"Australian Collectables, Ltd",44921,3,3,1,118517,Medium Value
+473,Frau da Collezione,25358,2,2,0,10254,Low Value
+475,West Coast Collectables Co.,43749,2,2,0,8486,Low Value
+484,"Iberia Gift Imports, Corp.",50988,2,2,1,54815,Low Value
+486,Motor Mint Distributors Inc.,77727,3,3,2,236885,Medium Value
+487,Signal Collectibles Ltd.,42570,2,2,0,21134,Low Value
+489,"Double Decker Gift Stores, Ltd",29586,2,2,0,6712,Low Value
+495,Diecast Collectables,65542,2,2,0,29952,Low Value
+496,Kelly's Gift Shop,114497,4,4,2,477312,High Value
